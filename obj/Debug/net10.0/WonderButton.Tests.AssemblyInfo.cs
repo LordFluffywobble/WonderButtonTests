@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WonderButton.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e37f70838a5f71c8edeed8fb3a895d40c4c2328")]
 [assembly: System.Reflection.AssemblyProductAttribute("WonderButton.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WonderButton.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
